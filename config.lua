@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Framework = 'autodetect' -- esx, qbcore, standalone or autodetect
+Config.Framework = 'esx' -- esx, qbcore, standalone or autodetect
 
 Config.Command = 'vinewood' -- Command to open the menu
 
